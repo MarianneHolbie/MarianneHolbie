@@ -22,8 +22,8 @@
 - 🔭 I’m currently working on HolbertonSchool Toulouse to learn software developement
 - 🌱 I’m currently learning C, Python, HTML, CSS ...
 - 🤔 I’m looking for help with my other peers at school because they love it when I explain complicated concepts to them (because I use all the tools of popularizing science)
-- 💬 I love learn, and refresh all time my knowledge, and in informatic it's the good way!
-- 📫 How to reach me: ...
+- 💬 I love learn, and refresh all time my knowledge, and in informatic it's the good way! Before learning coding I was biotechnology ingenier during 6 years, and Facilitator scientific (popularizing science).
+- 📫 How to reach me: 5608@holbertonstudents.com
 
 ---
 ### :heart: My Hobbies:
@@ -54,7 +54,12 @@
 
 ### :fire: My Stats :
 <div align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarianneHolbie&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  <div>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=MarianneHolbie&theme=dark&hide_border=true"/></a>
+  </div>
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianneHolbie&layout=compact&theme=vision-friendly-dark"/></a>
+  </div>
 </div>
 
 
